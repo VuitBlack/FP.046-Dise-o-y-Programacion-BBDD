@@ -1,5 +1,4 @@
-![Imágen de presentación del proyecto](https://raw.githubusercontent.com/VuitBlack/FP.046-Disenyo-y-Programacion-BBDD/main/Logo DBD.png)
-# FP.046 Diseño y Programacion BBDD con MySQL
+![Imágen de presentación del proyecto](https://raw.githubusercontent.com/VuitBlack/FP.046-Disenyo-y-Programacion-BBDD/main/Logo_DBD.png) # FP.046 Diseño y Programacion BBDD con MySQL
 ![Imágen de presentación del proyecto](https://raw.githubusercontent.com/VuitBlack/FP.046-Disenyo-y-Programacion-BBDD/main/Intro_Image.png)
 
 El objetivo general del proyecto es:
