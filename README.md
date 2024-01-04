@@ -1,6 +1,5 @@
 # FP.046 Diseño y Programacion BBDD con MySQL
-<span>![</span><span>Imágen de presentación del proyecto</span><span>]</span><span>(</span>
-<span>https://raw.githubusercontent.com/VuitBlack/FP.046-Disenyo-y-Programacion-BBDD/main/Intro_Image.png</span><span>)</span>
+![Imágen de presentación del proyecto](https://raw.githubusercontent.com/VuitBlack/FP.046-Disenyo-y-Programacion-BBDD/main/Intro_Image.png)
 
 El objetivo general del proyecto es:
  - Modificar y optimizar una base de datos a partir de un diseño entidad relación ER y su modelo relacional MR, mediante la herramienta gráfica de diseño Mysql Workbench.
